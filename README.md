@@ -58,3 +58,13 @@
 ---
 
 🚀 *This project is an IoT-based radar car system designed for autonomous navigation and real-time monitoring. Stay tuned for updates!* 🚀
+
+## Actual Circuit Wiring Diagram
+Below is the actual circuit wiring diagram for the ESP32-based system:
+
+![Circuit Diagram](https://github.com/user-attachments/assets/b893c863-5c84-4204-9f6a-f0e1542fc3e1)  
+
+
+
+> **Note:** Ensure all connections are secure and components are powered correctly.
+
