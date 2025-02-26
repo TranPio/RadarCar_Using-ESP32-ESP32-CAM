@@ -5,16 +5,16 @@
 #include <addons/RTDBHelper.h>
 
 // 1. Thông tin WiFi
-#define WIFI_SSID "Nhom11_NT131.P12"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID "----------"
+#define WIFI_PASSWORD "----------"
 
 // 2. Thông tin API Key và URL
-#define API_KEY "AIzaSyD3NsDrxPrOLWapTfT7COBwgWp-LntOrtE"
-#define DATABASE_URL "https://esp32-3502a-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY "@Your_API_Firebase"
+#define DATABASE_URL "@Your_URL_Firebase"
 
 // 3. Thông tin tài khoản Firebase
-#define USER_EMAIL "22521106@gm.uit.edu.vn"
-#define USER_PASSWORD "Abc123"
+#define USER_EMAIL "----------"
+#define USER_PASSWORD "----------"
 
 // Các chân điều khiển động cơ
 const int MR1 = 14; // Động cơ phải tiến
